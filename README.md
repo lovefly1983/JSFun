@@ -1,4 +1,4 @@
 JSFun
 =====
 
-Design Pattern: http://sourcemaking.com/design_patterns
+Design Pattern: https://github.com/shichuan/javascript-patterns/
